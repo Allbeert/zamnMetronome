@@ -1,0 +1,16 @@
+*.ipch
+*.pch
+*.suo
+*.sdf
+*.opensdf
+*.exe
+*.idb
+*.opendb
+*.user
+*.vc.db
+**/tmp/
+**/bin/x64/
+/dtvac/packages
+**/obj/
+**/bin/Win32/
+
